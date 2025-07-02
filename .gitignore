@@ -1,0 +1,24 @@
+# Lazy plugin manager
+lazy-lock.json
+
+# Neovim runtime files
+.netrwhist
+*~
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# LSP and DAP
+.cache/
+.jdtls/
+
+# Session files
+Session.vim
+*.session
+
+# Local configuration overrides
+local.lua
+.local/
